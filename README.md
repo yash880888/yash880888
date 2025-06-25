@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Yash Patel  👋
+ 
+💻 Full Stack Developer | Java • Spring Boot • React • Node.js  
+🎯 Passionate about coding and creating real-world web apps  
+📚 M.Sc IT student, focused on full stack development  
+🌍 Based in Gujarat | Open to remote jobs & internships
 
-<!--
-**yash880888/yash880888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Java (Spring Boot), Node.js  
+- Database: MySQL, MongoDB  
+- Tools: Git, GitHub, Postman
 
+
+
+## 📈 Currently Working On
+- Building full stack portfolio projects  
+- Learning React + Spring Boot integration  
+- Improving coding logic with JavaScript
+
+
+
+## 📫 Reach Me
+- LinkedIn:   www.linkedin.com/in/yash-patel-7282b8367
+- Email: yash880888@gmail.com
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
